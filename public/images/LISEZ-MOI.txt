@@ -1,0 +1,16 @@
+Images du site (dossier public/images/). Pour en changer une, remplacez le fichier
+en gardant exactement le même nom.
+
+hero.jpg                Accueil, bandeau principal : onduleur tour à écran LCD
+a-propos.jpg            Accueil : stock de batteries
+batterie.jpg            Accueil et Services : gamme de batteries étanches
+vente.jpg               Services : onduleurs rackables en stock
+installation.jpg        Services : armoire, cartes électroniques et outils (photo locale recadrée)
+maintenance.jpg         Services : armoire d'onduleur ouverte pour intervention (photo locale recadrée)
+depannage.jpg           Services : face arrière d'un onduleur (connectiques, protections)
+depannage-batterie.jpg  Services : batteries 65 Ah et 100 Ah
+solaire.jpg             Services : gamme de batteries stationnaires et à cycle profond
+entreprise.jpg          Services : onduleur grande armoire pour entreprises
+
+Format conseillé : JPG ou WebP, 1400 px de large maximum, moins de 400 Ko chacune.
+Si un fichier est absent, un cadre gris « Image à ajouter » s'affiche à sa place.
